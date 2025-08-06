@@ -13,7 +13,6 @@
     },
     "githubRepos": [
         "yuleo21/VRCSDKBannerRemover",
-        "yuleo21/SubAssetEditor",
-		"yuleo21/NDMFProstheticArmConstraintSetter"
+        "yuleo21/SubAssetEditor"
     ]
 }
